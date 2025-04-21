@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Majestic Alps Adventure",
+    "destination": "Switzerland",
+    "duration_days": 7,
+    "price_usd": 1899,
+    "description": "Explore the breathtaking Swiss Alps with scenic train rides, mountain hikes, and charming alpine villages.",
+    "start_date": "2025-06-15",
+    "end_date": "2025-06-22",
+    "includes": ["Accommodation", "Guided Tours", "Breakfast", "Train Pass"],
+    "rating": 4.8
+  },
+  {
+    "name": "Mysteries of Ancient Egypt",
+    "destination": "Egypt",
+    "duration_days": 10,
+    "price_usd": 2199,
+    "description": "Discover the secrets of the pyramids, the Nile, and ancient pharaohs on this immersive historical journey.",
+    "start_date": "2025-09-05",
+    "end_date": "2025-09-15",
+    "includes": [
+      "Accommodation",
+      "Meals",
+      "Cruise on the Nile",
+      "Museum Tickets"
+    ],
+    "rating": 4.6
+  },
+  {
+    "name": "Tokyo to Kyoto Cultural Escape",
+    "destination": "Japan",
+    "duration_days": 8,
+    "price_usd": 2499,
+    "description": "Dive into Japan’s unique blend of ancient traditions and modern marvels, from bustling Tokyo to serene Kyoto.",
+    "start_date": "2025-04-25",
+    "end_date": "2025-05-03",
+    "includes": ["Hotel", "Bullet Train", "Cultural Tours", "Daily Breakfast"],
+    "rating": 4.9
+  },
+  {
+    "name": "Patagonia Wilderness Trek",
+    "destination": "Chile & Argentina",
+    "duration_days": 12,
+    "price_usd": 2890,
+    "description": "Experience the raw beauty of Patagonia with glacier hikes, mountain treks, and stunning national parks.",
+    "start_date": "2025-11-10",
+    "end_date": "2025-11-22",
+    "includes": ["Campsite & Lodges", "Guides", "Meals", "National Park Entry"],
+    "rating": 4.7
+  },
+  {
+    "name": "Greek Islands Getaway",
+    "destination": "Greece",
+    "duration_days": 9,
+    "price_usd": 1995,
+    "description": "Sail through the Aegean Sea, discover ancient ruins, and relax on the white sand beaches of Santorini and Mykonos.",
+    "start_date": "2025-07-20",
+    "end_date": "2025-07-29",
+    "includes": [
+      "Island Hopping Cruise",
+      "Luxury Hotels",
+      "Breakfast & Dinner",
+      "Excursions"
+    ],
+    "rating": 4.85
+  }
+]
